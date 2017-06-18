@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665515956844",
+    "firebase_url": "https://bpelicansender.firebaseio.com",
+    "project_id": "bpelicansender",
+    "storage_bucket": "bpelicansender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665515956844:android:7d793d4c1587fedb",
+        "android_client_info": {
+          "package_name": "com.icdronesoc.bpelicanreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665515956844-ldl50cda8nnd5e04vq6u3jg313q9ftpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVMux_xT-kjsH7AluEbsA2Da3XQvd4e0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
